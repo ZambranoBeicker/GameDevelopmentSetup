@@ -3,10 +3,10 @@
 
 This setup isn't so difficult but you can spend a lot of time figuring out what to do and where to find the info so first of all let's list the things we need:
 
-* [MonoDevelop](#MonoDevelop)
-* [Omnisharp server (Roslyn)](#OmniSharp Server)
-* [Neovim Plugins for LSP](#Neovim Plugins for LSP)
-* [Considerations](#Considerations)
+* [MonoDevelop](#monodevelop)
+* [Omnisharp server (Roslyn)](#omnisharp-server)
+* [Neovim Plugins for LSP](#neovim-plugins-for-lsp)
+* [Considerations](#considerations)
 
 That will be all for now and it'll work
 
